@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">フラッシュ暗算</string>
+    <string name="help">ヘルプ</string>
+    <string name="ketasu">桁数とは？</string>
+    <string name="kutisu">口数とは？</string>
+    <string name="hayasa">速さとは？</string>
+    <string name="kaisetu_ketasu">　問題の桁数です。\n\n　　例：1桁では1〜9の数字を足す問題が表示されます。\n　　例：2桁では10〜99の数字を足す問題が表示されます。</string>
+    <string name="kaisetu_kutisu">　問題の数字の個数です。\n\n　　例：5口では5つの数字を足す問題が表示されます。\n　　例：10口では10つの数字を足す問題が表示されます。</string>
+    <string name="kaisetu_hayasa">　問題全体の速さです。\n\n　　例：10口,10秒とすると1秒間に1つ数字が表示されます。\n　　例：10口,5秒とすると0.5秒間に1つ数字が表示されます。</string>
+</resources>
